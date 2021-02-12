@@ -5,7 +5,7 @@ from random import randrange
 
 """
     Jogo de adivinhação com números de 1 a 30.
-    Máximo de 9 tentativas.
+    Máximo de 8 tentativas.
     Executa validação de entrada.
 
     PEP8 compliant
