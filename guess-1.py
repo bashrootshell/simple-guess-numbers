@@ -14,7 +14,7 @@ import random
 
 numero = random.randrange(1, 16)
 
-print('Chute um número entre 1 and 16.')
+print('Chute um número entre 1 e 16.')
 
 while True:
     print('Tente um número...')
