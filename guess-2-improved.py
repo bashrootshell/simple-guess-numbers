@@ -14,7 +14,7 @@ from random import randrange
     — The Zen of Python
 """
 
-numero = randrange(1, 30)
+numero = randrange(1, 31)
 # numero = randint(1, 30, 1)
 
 try:
